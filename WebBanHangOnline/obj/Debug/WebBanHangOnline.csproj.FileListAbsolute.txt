@@ -1,0 +1,646 @@
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\WebBanHangOnline.dll.config
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\WebBanHangOnline.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\WebBanHangOnline.pdb
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\csc.exe
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\csc.exe.config
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\csc.rsp
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\csi.exe
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\csi.exe.config
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\csi.rsp
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\System.AppContext.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\System.Console.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\System.Globalization.Calendars.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\System.IO.Compression.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\System.IO.FileSystem.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\System.Net.Http.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\System.Net.Sockets.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\System.ValueTuple.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\System.Xml.XPath.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\vbc.exe
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\vbc.exe.config
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\vbc.rsp
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\VBCSCompiler.exe
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Antlr3.Runtime.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\CKFinder.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Dapper.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\EntityFramework.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\EntityFramework.SqlServer.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Core.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.Owin.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.Owin.Security.Cookies.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.Owin.Security.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.Owin.Security.Facebook.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.Owin.Security.Google.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.Owin.Security.OAuth.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.Owin.Security.Twitter.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Newtonsoft.Json.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Owin.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\PagedList.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\PagedList.Mvc.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\System.Web.Helpers.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\System.Web.Mvc.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\System.Web.Optimization.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\System.Web.Razor.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\System.Web.WebPages.Deployment.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\System.Web.WebPages.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\System.Web.WebPages.Razor.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\WebGrease.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\CKFinder.pdb
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Dapper.xml
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\EntityFramework.xml
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\EntityFramework.SqlServer.xml
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\PagedList.xml
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\PagedList.Mvc.xml
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\System.Web.Helpers.xml
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\System.Web.Mvc.xml
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\System.Web.Optimization.xml
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\System.Web.Razor.xml
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\System.Web.WebPages.xml
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\System.Web.WebPages.Deployment.xml
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\System.Web.WebPages.Razor.xml
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Newtonsoft.Json.xml
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Antlr3.Runtime.pdb
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Core.xml
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.Owin.xml
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.Owin.Security.xml
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.Owin.Security.Facebook.xml
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.Owin.Security.Cookies.xml
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.Owin.Security.Google.xml
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.Owin.Security.Twitter.xml
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.Owin.Security.OAuth.xml
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.AssemblyReference.cache
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.CoreCompileInputs.cache
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\obj\Debug\WebBanHa.7E290493.Up2Date
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\obj\Debug\WebBanHangOnline.dll
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\obj\Debug\WebBanHangOnline.pdb
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.DatabaseNew.resources
+D:\WebSiteThuongMaiDienTuC-T-C\WebsiteBanhang\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.GenerateResource.cache
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\WebBanHangOnline.dll.config
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\WebBanHangOnline.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\WebBanHangOnline.pdb
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\csc.exe
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\csc.exe.config
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\csc.rsp
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\csi.exe
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\csi.exe.config
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\csi.rsp
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\System.AppContext.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Console.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Globalization.Calendars.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\System.IO.Compression.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\System.IO.FileSystem.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Net.Http.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Net.Sockets.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\System.ValueTuple.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Xml.XPath.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\vbc.exe
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\vbc.exe.config
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\vbc.rsp
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\VBCSCompiler.exe
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Antlr3.Runtime.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\CKFinder.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Dapper.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\EntityFramework.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\EntityFramework.SqlServer.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.Google.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Newtonsoft.Json.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Owin.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\PagedList.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\PagedList.Mvc.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\System.Web.Helpers.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\System.Web.Mvc.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\System.Web.Optimization.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\System.Web.Razor.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\System.Web.WebPages.Deployment.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\System.Web.WebPages.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\System.Web.WebPages.Razor.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\WebGrease.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\CKFinder.pdb
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Dapper.xml
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\EntityFramework.xml
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\EntityFramework.SqlServer.xml
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\PagedList.xml
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\PagedList.Mvc.xml
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\System.Web.Helpers.xml
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\System.Web.Mvc.xml
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\System.Web.Optimization.xml
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\System.Web.Razor.xml
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\System.Web.WebPages.xml
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\System.Web.WebPages.Deployment.xml
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\System.Web.WebPages.Razor.xml
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Newtonsoft.Json.xml
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Antlr3.Runtime.pdb
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.xml
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.xml
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.Google.xml
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.AssemblyReference.cache
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.DatabaseNew.resources
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.GenerateResource.cache
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.CoreCompileInputs.cache
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.CopyComplete
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\obj\Debug\WebBanHangOnline.dll
+D:\Download\HomeWork\An Toàn Web\Web2\Website-asp.net\WebBanHangOnline\obj\Debug\WebBanHangOnline.pdb
+D:\Website-asp.net\WebBanHangOnline\bin\WebBanHangOnline.dll.config
+D:\Website-asp.net\WebBanHangOnline\bin\WebBanHangOnline.dll
+D:\Website-asp.net\WebBanHangOnline\bin\WebBanHangOnline.pdb
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\csc.exe
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\csc.exe.config
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\csc.rsp
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\csi.exe
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\csi.exe.config
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\csi.rsp
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\System.AppContext.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Console.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Globalization.Calendars.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\System.IO.Compression.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\System.IO.FileSystem.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Net.Http.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Net.Sockets.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\System.ValueTuple.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Xml.XPath.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\vbc.exe
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\vbc.exe.config
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\vbc.rsp
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\VBCSCompiler.exe
+D:\Website-asp.net\WebBanHangOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\Website-asp.net\WebBanHangOnline\bin\Antlr3.Runtime.dll
+D:\Website-asp.net\WebBanHangOnline\bin\CKFinder.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Dapper.dll
+D:\Website-asp.net\WebBanHangOnline\bin\EntityFramework.dll
+D:\Website-asp.net\WebBanHangOnline\bin\EntityFramework.SqlServer.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.Google.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Newtonsoft.Json.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Owin.dll
+D:\Website-asp.net\WebBanHangOnline\bin\PagedList.dll
+D:\Website-asp.net\WebBanHangOnline\bin\PagedList.Mvc.dll
+D:\Website-asp.net\WebBanHangOnline\bin\System.Web.Helpers.dll
+D:\Website-asp.net\WebBanHangOnline\bin\System.Web.Mvc.dll
+D:\Website-asp.net\WebBanHangOnline\bin\System.Web.Optimization.dll
+D:\Website-asp.net\WebBanHangOnline\bin\System.Web.Razor.dll
+D:\Website-asp.net\WebBanHangOnline\bin\System.Web.WebPages.Deployment.dll
+D:\Website-asp.net\WebBanHangOnline\bin\System.Web.WebPages.dll
+D:\Website-asp.net\WebBanHangOnline\bin\System.Web.WebPages.Razor.dll
+D:\Website-asp.net\WebBanHangOnline\bin\WebGrease.dll
+D:\Website-asp.net\WebBanHangOnline\bin\CKFinder.pdb
+D:\Website-asp.net\WebBanHangOnline\bin\Dapper.xml
+D:\Website-asp.net\WebBanHangOnline\bin\EntityFramework.xml
+D:\Website-asp.net\WebBanHangOnline\bin\EntityFramework.SqlServer.xml
+D:\Website-asp.net\WebBanHangOnline\bin\PagedList.xml
+D:\Website-asp.net\WebBanHangOnline\bin\PagedList.Mvc.xml
+D:\Website-asp.net\WebBanHangOnline\bin\System.Web.Helpers.xml
+D:\Website-asp.net\WebBanHangOnline\bin\System.Web.Mvc.xml
+D:\Website-asp.net\WebBanHangOnline\bin\System.Web.Optimization.xml
+D:\Website-asp.net\WebBanHangOnline\bin\System.Web.Razor.xml
+D:\Website-asp.net\WebBanHangOnline\bin\System.Web.WebPages.xml
+D:\Website-asp.net\WebBanHangOnline\bin\System.Web.WebPages.Deployment.xml
+D:\Website-asp.net\WebBanHangOnline\bin\System.Web.WebPages.Razor.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Newtonsoft.Json.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Antlr3.Runtime.pdb
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.Google.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Website-asp.net\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.AssemblyReference.cache
+D:\Website-asp.net\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.DatabaseNew.resources
+D:\Website-asp.net\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.GenerateResource.cache
+D:\Website-asp.net\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.CoreCompileInputs.cache
+D:\Website-asp.net\WebBanHangOnline\obj\Debug\WebBanHa.7E290493.Up2Date
+D:\Website-asp.net\WebBanHangOnline\obj\Debug\WebBanHangOnline.dll
+D:\Website-asp.net\WebBanHangOnline\obj\Debug\WebBanHangOnline.pdb
+D:\Website-asp.net\WebBanHangOnline\bin\grpc_csharp_ext.x86.dll
+D:\Website-asp.net\WebBanHangOnline\bin\grpc_csharp_ext.x64.dll
+D:\Website-asp.net\WebBanHangOnline\bin\libgrpc_csharp_ext.x64.so
+D:\Website-asp.net\WebBanHangOnline\bin\libgrpc_csharp_ext.x64.dylib
+D:\Website-asp.net\WebBanHangOnline\bin\Google.Api.CommonProtos.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Google.Api.Gax.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Google.Api.Gax.Grpc.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Google.Apis.Auth.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Google.Apis.Core.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Google.Apis.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Google.Cloud.RecaptchaEnterprise.V1.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Google.Protobuf.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Grpc.Auth.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Grpc.Core.Api.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Grpc.Core.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Grpc.Net.Client.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Grpc.Net.Common.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Website-asp.net\WebBanHangOnline\bin\System.Buffers.dll
+D:\Website-asp.net\WebBanHangOnline\bin\System.CodeDom.dll
+D:\Website-asp.net\WebBanHangOnline\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Website-asp.net\WebBanHangOnline\bin\System.Memory.dll
+D:\Website-asp.net\WebBanHangOnline\bin\System.Net.Http.WinHttpHandler.dll
+D:\Website-asp.net\WebBanHangOnline\bin\System.Numerics.Vectors.dll
+D:\Website-asp.net\WebBanHangOnline\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Website-asp.net\WebBanHangOnline\bin\System.Threading.Tasks.Extensions.dll
+D:\Website-asp.net\WebBanHangOnline\bin\System.ValueTuple.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Google.Api.CommonProtos.pdb
+D:\Website-asp.net\WebBanHangOnline\bin\Google.Api.CommonProtos.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Google.Api.Gax.pdb
+D:\Website-asp.net\WebBanHangOnline\bin\Google.Api.Gax.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Google.Api.Gax.Grpc.pdb
+D:\Website-asp.net\WebBanHangOnline\bin\Google.Api.Gax.Grpc.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Google.Apis.pdb
+D:\Website-asp.net\WebBanHangOnline\bin\Google.Apis.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Google.Apis.Auth.pdb
+D:\Website-asp.net\WebBanHangOnline\bin\Google.Apis.Auth.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Google.Apis.Core.pdb
+D:\Website-asp.net\WebBanHangOnline\bin\Google.Apis.Core.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Google.Cloud.RecaptchaEnterprise.V1.pdb
+D:\Website-asp.net\WebBanHangOnline\bin\Google.Cloud.RecaptchaEnterprise.V1.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Google.Protobuf.pdb
+D:\Website-asp.net\WebBanHangOnline\bin\Google.Protobuf.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Grpc.Auth.pdb
+D:\Website-asp.net\WebBanHangOnline\bin\Grpc.Auth.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Grpc.Core.pdb
+D:\Website-asp.net\WebBanHangOnline\bin\Grpc.Core.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Grpc.Core.Api.pdb
+D:\Website-asp.net\WebBanHangOnline\bin\Grpc.Core.Api.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Grpc.Net.Client.pdb
+D:\Website-asp.net\WebBanHangOnline\bin\Grpc.Net.Client.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Grpc.Net.Common.pdb
+D:\Website-asp.net\WebBanHangOnline\bin\Grpc.Net.Common.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Website-asp.net\WebBanHangOnline\bin\System.Buffers.xml
+D:\Website-asp.net\WebBanHangOnline\bin\System.CodeDom.xml
+D:\Website-asp.net\WebBanHangOnline\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Website-asp.net\WebBanHangOnline\bin\System.Memory.xml
+D:\Website-asp.net\WebBanHangOnline\bin\System.Net.Http.WinHttpHandler.xml
+D:\Website-asp.net\WebBanHangOnline\bin\System.Numerics.Vectors.xml
+D:\Website-asp.net\WebBanHangOnline\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Website-asp.net\WebBanHangOnline\bin\System.Threading.Tasks.Extensions.xml
+D:\Website-asp.net\WebBanHangOnline\bin\System.ValueTuple.xml
+D:\Website-asp.net\WebBanHangOnline\bin\System.Net.Http.Extensions.dll
+D:\Website-asp.net\WebBanHangOnline\bin\System.Net.Http.Formatting.dll
+D:\Website-asp.net\WebBanHangOnline\bin\System.Net.Http.Json.dll
+D:\Website-asp.net\WebBanHangOnline\bin\System.Net.Http.Primitives.dll
+D:\Website-asp.net\WebBanHangOnline\bin\System.Text.Encodings.Web.dll
+D:\Website-asp.net\WebBanHangOnline\bin\System.Text.Json.dll
+D:\Website-asp.net\WebBanHangOnline\bin\System.Net.Http.Json.xml
+D:\Website-asp.net\WebBanHangOnline\bin\System.Text.Encodings.Web.xml
+D:\Website-asp.net\WebBanHangOnline\bin\System.Text.Json.xml
+D:\Website-asp.net\WebBanHangOnline\bin\hbehr.recaptcha.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Extensions.Primitives.dll
+D:\Website-asp.net\WebBanHangOnline\bin\SendGrid.dll
+D:\Website-asp.net\WebBanHangOnline\bin\StarkbankEcdsa.dll
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Website-asp.net\WebBanHangOnline\bin\Microsoft.Extensions.Primitives.xml
+D:\Website-asp.net\WebBanHangOnline\bin\SendGrid.pdb
+D:\Website-asp.net\WebBanHangOnline\bin\SendGrid.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\grpc_csharp_ext.x86.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\grpc_csharp_ext.x64.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\libgrpc_csharp_ext.x64.so
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\libgrpc_csharp_ext.x64.dylib
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\WebBanHangOnline.dll.config
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\WebBanHangOnline.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\WebBanHangOnline.pdb
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\csc.exe
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\csc.exe.config
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\csc.rsp
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\csi.exe
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\csi.exe.config
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\csi.rsp
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\System.AppContext.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Console.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Globalization.Calendars.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\System.IO.Compression.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\System.IO.FileSystem.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Net.Http.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Net.Sockets.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\System.ValueTuple.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Xml.XPath.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\vbc.exe
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\vbc.exe.config
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\vbc.rsp
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\VBCSCompiler.exe
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Antlr3.Runtime.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\CKFinder.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Dapper.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\EntityFramework.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\EntityFramework.SqlServer.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Google.Api.CommonProtos.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Google.Api.Gax.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Google.Api.Gax.Grpc.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Google.Apis.Auth.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Google.Apis.Core.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Google.Apis.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Google.Cloud.RecaptchaEnterprise.V1.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Google.Protobuf.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Grpc.Auth.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Grpc.Core.Api.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Grpc.Core.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Grpc.Net.Client.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Grpc.Net.Common.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\hbehr.recaptcha.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Extensions.Primitives.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.Google.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Newtonsoft.Json.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Owin.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\PagedList.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\PagedList.Mvc.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\SendGrid.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\StarkbankEcdsa.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Buffers.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.CodeDom.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Diagnostics.DiagnosticSource.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Memory.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Net.Http.Extensions.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Net.Http.Formatting.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Net.Http.Json.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Net.Http.Primitives.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Net.Http.WinHttpHandler.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Numerics.Vectors.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Text.Encodings.Web.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Text.Json.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Threading.Tasks.Extensions.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.ValueTuple.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Web.Helpers.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Web.Mvc.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Web.Optimization.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Web.Razor.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Web.WebPages.Deployment.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Web.WebPages.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Web.WebPages.Razor.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\WebGrease.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\CKFinder.pdb
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Dapper.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\EntityFramework.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\EntityFramework.SqlServer.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Google.Api.CommonProtos.pdb
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Google.Api.CommonProtos.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Google.Api.Gax.pdb
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Google.Api.Gax.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Google.Api.Gax.Grpc.pdb
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Google.Api.Gax.Grpc.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Google.Apis.pdb
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Google.Apis.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Google.Apis.Auth.pdb
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Google.Apis.Auth.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Google.Apis.Core.pdb
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Google.Apis.Core.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Google.Cloud.RecaptchaEnterprise.V1.pdb
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Google.Cloud.RecaptchaEnterprise.V1.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Google.Protobuf.pdb
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Google.Protobuf.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Grpc.Auth.pdb
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Grpc.Auth.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Grpc.Core.pdb
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Grpc.Core.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Grpc.Core.Api.pdb
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Grpc.Core.Api.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Grpc.Net.Client.pdb
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Grpc.Net.Client.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Grpc.Net.Common.pdb
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Grpc.Net.Common.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Extensions.Primitives.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Newtonsoft.Json.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\PagedList.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\PagedList.Mvc.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\SendGrid.pdb
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\SendGrid.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Buffers.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.CodeDom.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Diagnostics.DiagnosticSource.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Memory.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Net.Http.Json.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Net.Http.WinHttpHandler.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Numerics.Vectors.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Text.Encodings.Web.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Text.Json.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Threading.Tasks.Extensions.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.ValueTuple.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Web.Helpers.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Web.Mvc.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Web.Optimization.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Web.Razor.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Web.WebPages.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Web.WebPages.Deployment.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\System.Web.WebPages.Razor.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Antlr3.Runtime.pdb
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.Google.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.AssemblyReference.cache
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.DatabaseNew.resources
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.GenerateResource.cache
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.CoreCompileInputs.cache
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\obj\Debug\WebBanHa.7E290493.Up2Date
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\obj\Debug\WebBanHangOnline.dll
+D:\ATHTTT\Website-asp.net\WebBanHangOnline\obj\Debug\WebBanHangOnline.pdb
